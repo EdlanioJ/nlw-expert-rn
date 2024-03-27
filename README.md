@@ -64,6 +64,18 @@ npx expo run:android
 
 ```
 
+## Layout
+
+You may view the layout of this project through this [link :link:](https://www.figma.com/file/aOd8r1Pw5Zm4KH9kZ8dLVQ/NLW-expert-%E2%80%A2-Orders-(Community)?type=design&node-id=2104-673&mode=design&t=Kkj8P3rNYDSoL18l-0). You must have an account at [Figma](https://figma.com) to access it.
+
+## License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
+<br/>
+
+Made with :heart: por [Edlâneo Manuel](https://github.com/EdlanioJ) :wave:
+
+
 
 
 [React-Native]: https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff
